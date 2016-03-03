@@ -1,1 +1,4 @@
 build/
+contracts/package/
+.idea/
+node_modules/
