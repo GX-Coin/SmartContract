@@ -1,0 +1,23 @@
+{
+  "name": "gxCoinContracts",
+  "version": "1.0.0",
+  "description": "Source code of the GX-Coins contracts and libraries which are deployed to the Ethereum blockchain.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://gx-coin.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GX-Coin/SmartContract.git"
+  },
+  "devDependencies": {
+    "solc": "^0.2.2-2",
+    "ethereumjs-testrpc": "^1.0.0",
+    "mocha": "^2.4.5",
+    "web3": "^0.15.3",
+    "assert": "^1.3.0",
+    "jscs": "^2.11.0"
+  }
+}
