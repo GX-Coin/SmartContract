@@ -1,6 +1,6 @@
 {
   "name": "gxCoinContracts",
-  "version": "1.0.0",
+  "version": "1.2.4",
   "description": "Source code of the GX-Coins contracts and libraries which are deployed to the Ethereum blockchain.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
