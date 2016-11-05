@@ -8,7 +8,7 @@ Source code of the GX-Coins contracts and libraries which are deployed to the Et
 ## Instructions
 ```
 npm install
-mocha contracts/tests/ --timeout 0 --recursive
+mocha ./tests/ --timeout 0 --recursive
 ```
 
 ---
